@@ -1,0 +1,15 @@
+/Users/sel/Projects/DemoTutorial/DemoTutorial/bin/Debug/net7.0/DemoTutorial
+/Users/sel/Projects/DemoTutorial/DemoTutorial/bin/Debug/net7.0/DemoTutorial.deps.json
+/Users/sel/Projects/DemoTutorial/DemoTutorial/bin/Debug/net7.0/DemoTutorial.runtimeconfig.json
+/Users/sel/Projects/DemoTutorial/DemoTutorial/bin/Debug/net7.0/DemoTutorial.dll
+/Users/sel/Projects/DemoTutorial/DemoTutorial/bin/Debug/net7.0/DemoTutorial.pdb
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.csproj.AssemblyReference.cache
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.AssemblyInfoInputs.cache
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.AssemblyInfo.cs
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.csproj.CoreCompileInputs.cache
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.dll
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/refint/DemoTutorial.dll
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.pdb
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/DemoTutorial.genruntimeconfig.cache
+/Users/sel/Projects/DemoTutorial/DemoTutorial/obj/Debug/net7.0/ref/DemoTutorial.dll
